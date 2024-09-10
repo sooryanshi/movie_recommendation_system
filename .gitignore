@@ -1,2 +1,4 @@
 # Ignore app.py
+app.py/
 # Ignore movies.pkl
+movies.pkl/
