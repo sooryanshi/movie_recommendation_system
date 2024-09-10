@@ -12,6 +12,7 @@
  TMDb API but is not endorsed or certified by TMDb.
  
   #### This project involves building a movie recommender system using machine learning techniques:
+  [The complete code for this project is available here]( https://github.com/sooryanshi/movie_recommendation_system/blob/main/movie_recommendation_system_.ipynb)
   
 ### 1. Problem Definition
     Objective: Develop a movie recommender system that suggests movies to users based on their past behavior and preferences.
